@@ -6,7 +6,7 @@ Python Labs
 2. Write a program that takes a number and 
    print its value in binary
 
-3. Write a program that takes a log file and print all the error messages from it. 
+3. Write a program that takes a log file and print all the error messages from it (An error line is a one having 404 or 408 status). 
    Log file example:
 
 ```
